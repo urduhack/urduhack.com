@@ -16,7 +16,6 @@ We have developed two core modules, Normalization and Tokenization, which are ne
 problems like Sentiment Analysis or Document Classification etc. It's under development currently and we are working
 daily to make this a full-fledged NLP library for Urdu. 
 You can easily get the idea about the tasks we are working on by visiting the given links.
-We will be using TensorFlow v2 in our upcoming modules.
  
 ### Machine Learning models supported by urduhack:
 
